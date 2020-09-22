@@ -1,7 +1,7 @@
 # ClipboardClear
-Clear your clipboard with one click.
+Clear your clipboard with one click. ClipboardClear is designed to easily allow you to clear your clipboard after copying and pasting sensitive information on Windows.
 
-ClipboardClear is designed to easily allow you to clear your clipboard after copying and pasting sensitive information on Windows.
+## Instructions
 
 - Download the executable
 - Right click the file
