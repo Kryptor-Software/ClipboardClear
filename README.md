@@ -18,9 +18,9 @@ Compatible with Windows. Requires [.NET Framework 4.8](https://dotnet.microsoft.
 ## Integrity
 Clipboard Clear.exe
 
-- MD5: c021fea70009606ae88e5e420ea1d698
-- SHA1: d8ce3d2f65d8afa26aa038a8837b09afa9fab4af
-- SHA256: 677b6a8076d83b4e1d0567d62b17d3f914535a657cf3f0d94b54f9fa640b685a
+- MD5: 387905bad76140ac05ea4c2a28097336
+- SHA1: 9f1482aa3d13922ba246dbcba83ba95da48916a5
+- SHA256: fd1f164e11c4a7662aa2a2476d48c1c10cd040a414bbb736fea4aac88f017477
 
 ## Licenses
 Icon source (GPLv2): https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free
