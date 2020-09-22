@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-//Clipboard Clear: Clear your clipboard with one click.
+//    Clipboard Clear: Clear your clipboard with one click.
 //    Copyright(C) 2020 Samuel Lucas
 
 //    This program is free software: you can redistribute it and/or modify
